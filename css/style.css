@@ -37,7 +37,7 @@ html:after {
     margin: 100px auto;
     border: 1px solid black;
     z-index: 5;
-    box-shadow: 0 10px 30px -10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 20px 30px -10px rgba(255, 255, 255, 0.5);
 }
 
 header,
@@ -52,6 +52,7 @@ footer {
     font-family: 'Reenie Beanie', cursive;
     font-weight: 100;
     text-transform: uppercase;
+    text-shadow: 0 10px 0 red;
 }
 
 
